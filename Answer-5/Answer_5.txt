@@ -1,0 +1,3 @@
+QUESTION : Define Favicon.
+
+ANSWER : Favicon (Favourite Icon) is a icon that is associated with the website. It is usually shown in website's address bar, page tabs and bookmark menus. It is basically in the form of png, gif or ico format. It is usually for the brand building so that when the user see the website's icon , they will know that they are in the right place. It is placed using the <link> tag in head section.
