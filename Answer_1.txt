@@ -1,0 +1,11 @@
+QUESTION : What is SEO and explain the importance of SEO?
+
+ANSWER : SEO(Search Engine Optimization) is the way the website gets optimized to get higher ranking in search page results, get increased visibilty and traffic on search engines like chrome, bing, yahoo, etc. It gives the descriptive information about the content of the webpage to the browser and the search engine. 
+
+SEO is important as it helps in :
+
+1. Increased visibility : As the meta information about the website is descriptive ,the search engines will understand the content correctly and bring the correct and large audience to the website which helps in higher ranking in search page results.
+
+2. Accessible website : Meta information will also help the accessibility tools to make understand the website to the people with disability well and correct.
+
+3. Better presentation : SEO also helps in better presention of websites in different devices which optimize according to the different device widths.

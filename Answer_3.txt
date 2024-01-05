@@ -1,0 +1,9 @@
+QUESTION : What are the Benefits of Using meta tags.
+
+ANSWER : Some of the benefits of using meta tags are :
+ 
+ 1. It helps in making the social media sharing of the website attrictive as some attributes of meta tags can help in deciding the title, content and picture of the website when it is shared on other social media platforms.
+
+ 2. It helps in deciding the character encoding for using the different special characters and also helps in creating multilingual websites.
+
+ 3. Helps in making accessible website for every type of user including differently abled people too as the proper description of the website will help the screen readers and other accessibilty tools to convey the information about the content of the website. 
